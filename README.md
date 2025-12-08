@@ -2,4 +2,4 @@
 <br>
 this is my first repo 
 <br>
-auther - megha
+auther - megha bhadouriya
